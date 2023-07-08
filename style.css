@@ -1,3 +1,13 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.headercontainer {
+    display: flex;
+    flex-direction: column;
+}
+
 img {
     height: auto;
     width: 400px;
